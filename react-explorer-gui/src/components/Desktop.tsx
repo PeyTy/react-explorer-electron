@@ -10,8 +10,8 @@ export default () => {
         </div>
       </div>
       <div className="osversion">
-        <span>Windows 10 Enterprise Insider Preview</span>
-        <span>Evaluation copy. Build 18962.rs_client_servicing.190813-1819</span>
+        <span>Greentea OS Insider Preview</span>
+        <span>This is only a concept, not a real app</span>
       </div>
     </>
   )

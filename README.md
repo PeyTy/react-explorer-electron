@@ -1,6 +1,6 @@
 # react-explorer-electron
 
-Concept
+Concept, test only on Windows x64!
 
 ```sh
 cd react-explorer-gui
